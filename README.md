@@ -6,6 +6,6 @@ Un Proyecto grupal de Data Science en el que se hace ETL, EDA, un Dashboard y se
 
 - Juan Mendoza
 - Fer Abraham
-- Nico Musante 
-- Tiago 
-- Igna
+- Nico Musante
+- Tiago
+- Ignacio Sanchez Wakuluk
