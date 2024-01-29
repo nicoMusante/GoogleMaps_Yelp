@@ -18,8 +18,8 @@
 
 
 	
-	Fer Abraham ------ Project Manager	https://github.com/wilson2905						https://www.linkedin.com/in/jorge-fernando-abraham-451a44290
-	Thiago Sepulveda - Data Engineer	https://github.com/Zzepu?tab=overview&from=2024-01-01&to=2024-01-29	https://www.linkedin.com/in/tiago-sepulveda-047102243/
-	Ignacio Waukuluk - Data Analyst		
-	Nico Mussante ---- Data Architect	https://github.com/nicoMusante						https://www.linkedin.com/in/nicolas-musante123
-	Juan Mendoza ----- Data Scientist	https://github.com/Juan-Mendoza00					https://www.linkedin.com/in/juan-camilo-mendoza-lopez-97195a290
+Fer Abraham ------ Project Manager	https://github.com/wilson2905							https://www.linkedin.com/in/jorge-fernando-abraham-451a44290
+Thiago Sepulveda - Data Engineer	https://github.com/Zzepu	                        	https://www.linkedin.com/in/tiago-sepulveda-047102243/
+Ignacio Waukuluk - Data Analyst		https://github.com/Ignacio-sw							https://www.linkedin.com/in/ignacio-s-wakuluk-4583a0291/
+Nico Mussante ---- Data Architect	https://github.com/nicoMusante							https://www.linkedin.com/in/nicolas-musante123
+Juan Mendoza ----- Data Scientist	https://github.com/Juan-Mendoza00						https://www.linkedin.com/in/juan-camilo-mendoza-lopez-97195a290
