@@ -5,3 +5,7 @@ Un Proyecto grupal de Data Science en el que se hace ETL, EDA, un Dashboard y se
 ## Data Team
 
 - Juan Mendoza
+- Fer Abraham
+- Nico Musante 
+- Tiago 
+- Igna
