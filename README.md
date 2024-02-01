@@ -13,8 +13,12 @@ Un Proyecto grupal de Data Science en el que se hace ETL, EDA, un Dashboard y se
 ---
 
 **Proyecto Final – Consultoría Yelp y Google Maps**
+
 **Bootcamp Data Science**
+
 **Soy Henry**
+
+---
 
 **Introducción**: 
 
@@ -24,19 +28,19 @@ Se dispone de un conjunto de archivos de un tamaño considerable, en el que se e
 
 Objetivos
 -	Depurar el conjunto de datos para posterior análisis.
-    o	Obsevar a grandes rasgos la información que se tiene.
-    o	Acotar la cantidad de registros.
-    o	Determinar criterios de relevancia para el análisis.
+    - Obsevar a grandes rasgos la información que se tiene.
+    - Acotar la cantidad de registros.
+    - Determinar criterios de relevancia para el análisis.
 -	Desarrollar un sistema de ETL.
     - Crear un pipeline de ETL automatizado, escalable y replicable.
 -	Crear una Base de Datos Relacional
-    o	Realizar el DER (Diagrama Entidad Relación)
-    o	Crear una base de datos sobre un motor SQL.
-    o	Replicar la base de datos en un servicio cloud.
+    - Realizar el DER (Diagrama Entidad Relación)
+    - Crear una base de datos sobre un motor SQL.
+    - Replicar la base de datos en un servicio cloud.
 -	Realizar tareas de Analytics y Business Intelligence.
-    o	Analizar profundamente los datos.
-    o	Determinar relaciones.
-    o	Comprender la distribución de las reseñas.
-    o	Determinar criterios de filtrado y agrupación.
-    o	Crear reportes visuales e interactivos.
+    - Analizar profundamente los datos.
+    - Determinar relaciones.
+    - Comprender la distribución de las reseñas.
+    - Determinar criterios de filtrado y agrupación.
+    - Crear reportes visuales e interactivos.
 -	Desarrollar sistemas de Machine Learning que resuelvan un problema …
