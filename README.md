@@ -43,4 +43,8 @@ Objetivos
     - Comprender la distribución de las reseñas.
     - Determinar criterios de filtrado y agrupación.
     - Crear reportes visuales e interactivos.
+    - Comprender como el volumen de reseñas se relaciona con otras variables
 -	Desarrollar sistemas de Machine Learning que resuelvan un problema …
+    - Clasificar las reseñas aplicando análisis de sentimientos.
+    - Investigar la influencia que pueden tener los comentarios.
+- Desplegar un producto de data intercativo y funcional.
