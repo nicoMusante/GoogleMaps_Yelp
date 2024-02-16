@@ -10,7 +10,7 @@ Somos una consultora de análisis de datos llamada **DATAMIND SOLUTIONS**. Nos e
 
 ## **Nuestra Propuesta** 🌎
 
-<img src="imagenes\DataMinds_Solutions.png" alt="Datamind Solutions" width="720" height="360">
+<img src="imagenes\DataMinds Solutions.png" alt="Datamind Solutions" width="720" height="360">
 
 # Propuesta de Análisis del Mercado de Restaurantes y Afines
 
