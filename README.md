@@ -49,7 +49,7 @@ Objetivos
 
 Metodología:
 
-    Recopilación de datos: Utilizaremos técnicas de extracción de datos para recopilar opiniones y calificaciones de usuarios de Yelp y Google Maps sobre los negocios relevantes.
+Recopilación de datos: Utilizaremos técnicas de extracción de datos para recopilar opiniones y calificaciones de usuarios de Yelp y Google Maps sobre los negocios relevantes.
     Análisis de sentimientos: Aplicaremos algoritmos de análisis de sentimientos para evaluar la actitud y percepción de los usuarios hacia los negocios analizados.
     Modelado predictivo: Utilizaremos técnicas de modelado predictivo, como el análisis de series temporales y la regresión, para prever las tendencias futuras del mercado.
     Análisis espacial: Utilizaremos herramientas de análisis espacial para identificar áreas con alto potencial para la apertura de nuevos locales comerciales.
