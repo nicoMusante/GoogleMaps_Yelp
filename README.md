@@ -1,22 +1,16 @@
 <img src="imagenes\Data_Mind_Solutions_Logo.png" width="120" height="82">
 
-**Consultora**
+# 🚀🚀 **PROYECTO FINAL** 🚀🚀
+
+## **¿Quiénes Somos?** 👥
+
+Somos una consultora de análisis de datos llamada **DATAMIND SOLUTIONS**. Nos especializamos en brindar servicios de análisis y procesamiento de datos a empresas que desean analizar su próxima meta. Nuestra misión principal es ayudar a estas empresas a tomar decisiones informadas y estratégicas basadas en datos, desde el análisis proyectado de los clientes y posibles inversores.
 
 ---
 
-#       💡💡**PROYECTO FINAL**💡💡
+## **Nuestra Propuesta** 🌎
 
-## **¿Quienes Somos?** 👥
-
- Somos una consultora de análisis de datos, llamada **DATAMIND SOLUTIONS **.
- Nos especializamos en brindar servicios de análisis y procesamiento de datos a empresas que desean analizar su próxima meta. Nuestra misión principal es ayudar a estas empresas a tomar decisiones informadas y estratégicas basadas en datos, desde el analisis proyectado de los clientes y posibles inversores.
-
-En este proyecto en particular, nos enfocamos en analizar la información recopilada de plataformas de reseñas como Yelp y Google Maps. Nuestro objetivo principal es descubrir patrones y tendencias en las reseñas de los usuarios, con el fin de comprender su experiencia, necesidades y expectativas en relación al servicio ofrecido por la empresa.
-
----
-
-## **Nuestra Propuesta ** 🌎
-<img src="imagenes\DataMinds Solutions.png" alt="Nuestro TEAM" width="720" height="360">
+<img src="imagenes\DataMinds_Solutions.png" alt="Datamind Solutions" width="720" height="360">
 
 # Propuesta de Análisis del Mercado de Restaurantes y Afines
 
@@ -78,10 +72,9 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 <img src="imagenes\Staf_DMS.png" alt="Nuestro TEAM" width="720" height="360">
 
-
-
 ---
-## ¿Cómo lo haremos Posible? 🔥🔥🔥
+
+## ¿Cómo lo haremos Posible? 🔥🌟🔥
 
 1. **Metodología de trabajo a través de Scrum ⇒ Metodología Ágil**
    <img src="imagenes\Diagramadeflujo.jpeg" alt="Metodología Ágil" width="720" height="360">
@@ -104,8 +97,7 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 ---
 
-
-## Autores 👥🖋️
+## 🌟👥 Autores 👥🌟
 
 - **Fer Abraham**
   - GitHub: [wilson2905](https://github.com/wilson2905)
