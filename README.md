@@ -81,35 +81,29 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 
 ---
+## ¿Cómo lo haremos Posible? 🔥🔥🔥
 
-## **¿Como lo haremos Posible?** 🔥🔥🔥
+1. **Metodología de trabajo a través de Scrum ⇒ Metodología Ágil**
+   <img src="imagenes\Diagramadeflujo.jpeg" alt="Metodología Ágil" width="720" height="360">
 
-**1-** _Metodología de trabajo a traves de Scrum ⇒ Metodología Ágil_
-<img src="imagenes\Diagramadeflujo.jpeg" alt="Nuestro TEAM" width="720" height="360">
+2. **Extracción y transformación de datos con Python utilizando las librerías Pandas y Numpy principalmente.**
 
+3. **Almacenamiento de datos limpios y estructurados con el servicio en la nube Google Cloud Storage.**
 
-**2-** _Extracción y transformación de datos con python usando las librerias Pandas y Numpy principalmente._
+4. **Modelado y Análisis de datos en la nube con Google Cloud Functions.**
 
-**3-** _Almacenamiento de datos limpios y estructurados con el servicio en la nube Google Cloud Storage_
+5. **Análisis de datos en la nube con BigQuery.**
 
-**4-** _Modelado y Análisis de datos en la nube con Google Cloud Functions_
+6. **Modelos de Machine Learning con Vertex.**
 
-**5-** _Análisis de datos en la nube con BigQuery_
+7. **Visualización y reportes con Microsoft Power BI conectado desde BigQuery.**
 
-**6-** _Modelos de Machine Learning con Vertex_
+## Stack Tecnológico
 
-**7-** _Visualización y reportes con Microsoft Power Bi conectado desde BigQuery_
-
-## **Stack Tecnológico**
-
-<img src="imagenes\pipeline_datos.png" alt="Nuestro TEAM" width="720" height="360">
-
-
+<img src="imagenes\pipeline_datos.png" alt="Stack Tecnológico" width="720" height="360">
 
 ---
 
-
----
 
 ## Autores 👥🖋️
 
