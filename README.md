@@ -84,7 +84,7 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 **7-** _Visualización y reportes con Microsoft Power Bi conectado desde BigQuery_
 
-## **Estructura Tecnológica**
+## **Stack Tecnológico**
 
 <img src="imagenes\pipeline_datos.png" alt="Nuestro TEAM" width="720" height="360">
 
@@ -95,24 +95,28 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 ---
 
-## **Autores** 👥🖋️
+## Autores 👥🖋️
 
-- Fer Abraham 
-        -GitHub: https://github.com/wilson2905
-        -LinkedIn: https://www.linkedin.com/in/jorge-fernando-abraham-451a44290/
-- Juan Mendoza
-        -GitHub: https://github.com/Juan-Mendoza00
-        -LinkedIn: https://www.linkedin.com/in/juan-camilo-mendoza-lopez-97195a290/ 
-- Nico Musante
-        -GitHub: https://github.com/nicoMusante
-        -LinkedIn: https://www.linkedin.com/in/nicolas-musante123/
-- Tiago Sepulveda
-        -GitHub: https://github.com/Zzepu
-        -LinkedIn: https://www.linkedin.com/in/tiago-sepulveda-047102243/
+- **Fer Abraham**
+  - GitHub: [wilson2905](https://github.com/wilson2905)
+  - LinkedIn: [Jorge Fernando Abraham](https://www.linkedin.com/in/jorge-fernando-abraham-451a44290/)
 
-- Ignacio Sanchez Wakuluk
-        -GitHub: https://github.com/Ignacio-sw
-        -LinkedIn: https://www.linkedin.com/in/ignacio-s-wakuluk-4583a0291/ 
+- **Juan Mendoza**
+  - GitHub: [Juan-Mendoza00](https://github.com/Juan-Mendoza00)
+  - LinkedIn: [Juan Camilo Mendoza Lopez](https://www.linkedin.com/in/juan-camilo-mendoza-lopez-97195a290/)
+
+- **Nico Musante**
+  - GitHub: [nicoMusante](https://github.com/nicoMusante)
+  - LinkedIn: [Nicolas Musante](https://www.linkedin.com/in/nicolas-musante123/)
+
+- **Tiago Sepulveda**
+  - GitHub: [Zzepu](https://github.com/Zzepu)
+  - LinkedIn: [Tiago Sepulveda](https://www.linkedin.com/in/tiago-sepulveda-047102243/)
+
+- **Ignacio Sanchez Wakuluk**
+  - GitHub: [Ignacio-sw](https://github.com/Ignacio-sw)
+  - LinkedIn: [Ignacio S. Wakuluk](https://www.linkedin.com/in/ignacio-s-wakuluk-4583a0291/)
+
 
 
 ---
