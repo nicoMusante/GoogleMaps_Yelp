@@ -18,48 +18,62 @@ En este proyecto en particular, nos enfocamos en analizar la información recopi
 ## **Nuestra Propuesta ** 🌎
 <img src="imagenes\DataMinds Solutions.png" alt="Nuestro TEAM" width="720" height="360">
 
-_Propuesta de Análisis del Mercado de Restaurantes y Afines
+# Propuesta de Análisis del Mercado de Restaurantes y Afines
 
-Introducción:
+## Introducción
+
 Como parte de nuestra consultoría en análisis de datos, nos complace presentar esta propuesta para abordar las necesidades de nuestro cliente, una empresa dentro del conglomerado de restaurantes y turismo. Nuestro objetivo es proporcionar un análisis detallado y estratégico del mercado estadounidense, aprovechando datos de plataformas populares como Yelp y Google Maps.
 
-Objetivos
--	Depurar el conjunto de datos para posterior análisis.
-    - Obsevar a grandes rasgos la información que se tiene.
-    - Acotar la cantidad de registros.
-    - Determinar criterios de relevancia para el análisis.
--	Desarrollar un sistema de ETL.
-    - Crear un pipeline de ETL automatizado, escalable y replicable.
--	Crear una Base de Datos Relacional
-    - Realizar el DER (Diagrama Entidad Relación)
-    - Crear una base de datos sobre un motor SQL.
-    - Replicar la base de datos en un servicio cloud.
--	Realizar tareas de Analytics y Business Intelligence.
-    - Analizar profundamente los datos.
-    - Determinar relaciones.
-    - Comprender la distribución de las reseñas.
-    - Determinar criterios de filtrado y agrupación.
-    - Crear reportes visuales e interactivos.
-    - Comprender como el volumen de reseñas se relaciona con otras variables
--	Desarrollar sistemas de Machine Learning que resuelvan un problema …
-    - Clasificar las reseñas aplicando análisis de sentimientos.
-    - Investigar la influencia que pueden tener los comentarios.
-- Desplegar un producto de data intercativo y funcional.
+## Objetivos
 
+- **Depurar el conjunto de datos para posterior análisis.**
+  - Observar a grandes rasgos la información que se tiene.
+  - Acotar la cantidad de registros.
+  - Determinar criterios de relevancia para el análisis.
 
-Metodología:
+- **Desarrollar un sistema de ETL.**
+  - Crear un pipeline de ETL automatizado, escalable y replicable.
 
-Recopilación de datos: Utilizaremos técnicas de extracción de datos para recopilar opiniones y calificaciones de usuarios de Yelp y Google Maps sobre los negocios relevantes.
-    Análisis de sentimientos: Aplicaremos algoritmos de análisis de sentimientos para evaluar la actitud y percepción de los usuarios hacia los negocios analizados.
-    Modelado predictivo: Utilizaremos técnicas de modelado predictivo, como el análisis de series temporales y la regresión, para prever las tendencias futuras del mercado.
-    Análisis espacial: Utilizaremos herramientas de análisis espacial para identificar áreas con alto potencial para la apertura de nuevos locales comerciales.
-    Desarrollo de sistema de recomendación: Implementaremos algoritmos de recomendación basados en contenido y filtrado colaborativo para personalizar las sugerencias para los usuarios.
+- **Crear una Base de Datos Relacional.**
+  - Realizar el DER (Diagrama Entidad Relación).
+  - Crear una base de datos sobre un motor SQL.
+  - Replicar la base de datos en un servicio cloud.
 
-Conclusiones:
+- **Realizar tareas de Analytics y Business Intelligence.**
+  - Analizar profundamente los datos.
+  - Determinar relaciones.
+  - Comprender la distribución de las reseñas.
+  - Determinar criterios de filtrado y agrupación.
+  - Crear reportes visuales e interactivos.
+  - Comprender cómo el volumen de reseñas se relaciona con otras variables.
+
+- **Desarrollar sistemas de Machine Learning que resuelvan un problema.**
+  - Clasificar las reseñas aplicando análisis de sentimientos.
+  - Investigar la influencia que pueden tener los comentarios.
+
+- **Desplegar un producto de data interactivo y funcional.**
+
+## Metodología
+
+1. **Recopilación de datos:**
+   Utilizaremos técnicas de extracción de datos para recopilar opiniones y calificaciones de usuarios de Yelp y Google Maps sobre los negocios relevantes.
+
+2. **Análisis de sentimientos:**
+   Aplicaremos algoritmos de análisis de sentimientos para evaluar la actitud y percepción de los usuarios hacia los negocios analizados.
+
+3. **Modelado predictivo:**
+   Utilizaremos técnicas de modelado predictivo, como el análisis de series temporales y la regresión, para prever las tendencias futuras del mercado.
+
+4. **Análisis espacial:**
+   Utilizaremos herramientas de análisis espacial para identificar áreas con alto potencial para la apertura de nuevos locales comerciales.
+
+5. **Desarrollo de sistema de recomendación:**
+   Implementaremos algoritmos de recomendación basados en contenido y filtrado colaborativo para personalizar las sugerencias para los usuarios.
+
+## Conclusiones
 
 Esta propuesta representa un enfoque integral y estratégico para analizar el mercado turístico y de restaurantes en los Estados Unidos. Estamos seguros de que nuestros análisis y recomendaciones proporcionarán a nuestro cliente una ventaja competitiva significativa en un mercado dinámico y en constante evolución. Estamos ansiosos por comenzar a trabajar en este emocionante proyecto y esperamos colaborar estrechamente con el equipo de nuestro cliente para alcanzar sus objetivos comerciales.
 
-._
 
 <img src="imagenes\Staf_DMS.png" alt="Nuestro TEAM" width="720" height="360">
 
