@@ -74,8 +74,10 @@ Como parte de nuestra consultoría en análisis de datos, nos complace presentar
 
 Esta propuesta representa un enfoque integral y estratégico para analizar el mercado turístico y de restaurantes en los Estados Unidos. Estamos seguros de que nuestros análisis y recomendaciones proporcionarán a nuestro cliente una ventaja competitiva significativa en un mercado dinámico y en constante evolución. Estamos ansiosos por comenzar a trabajar en este emocionante proyecto y esperamos colaborar estrechamente con el equipo de nuestro cliente para alcanzar sus objetivos comerciales.
 
+<br>
 
 <img src="imagenes\Staf_DMS.png" alt="Nuestro TEAM" width="720" height="360">
+
 
 
 ---
