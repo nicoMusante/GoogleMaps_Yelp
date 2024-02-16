@@ -1,5 +1,3 @@
-<img src="imagenes\Data_Mind_Solutions_Logo.png" width="120" height="82">
-
 # 🚀🚀 **PROYECTO FINAL** 🚀🚀
 
 ## **¿Quiénes Somos?** 👥
