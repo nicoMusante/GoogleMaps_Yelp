@@ -121,6 +121,11 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 Python, Visual Studio Code, Google Cloud Storage, Google Cloud Functions, BigQuery, Google Drive, Vertex y  Microsoft Power BI, GitHub
 ---
+## ** Enlaces de Interes** 
+Alojamiento en Google Drive de Dashboard Analiticos
+ https://drive.google.com/drive/folders/1Wy_kRJRUM71MEBnL9HkGRe68O6qMrkrG?usp=sharing
+Enlace al Proyecto alojado en la nube en Google Cloud
+ https://console.cloud.google.com/welcome?project=dms-pfh
 
 
 
