@@ -11,7 +11,7 @@ import numpy as np
 # cloud_storage = storage.Client()
 bigquery_client = bigquery.Client()
 
-project_id = 'dms-pfh'
+project_id = 'dminds-414506'
 dataset = 'maps_data'
 
 
@@ -53,6 +53,9 @@ def load_df(cloud_event):
       print("Nombre del estado:", state_name)
       #lista de estados de la costa este de US para solo cargar estos en BigQuery
       states_east=["Connecticut","Delaware","Florida","Georgia","Illinois","Indiana","Kentucky","Maryland","Massachusetts","Michigan","New_Hampshire","New_Jersey","New_York","North_Carolina","Ohio","Pennsylvania","Rhode_Island","South_Carolina","Tennessee","Vermont","Virginia","West_Virginia","Wisconsin"]
+      if (state_name not in states_east) :
+        print("Data frame no cargado debido a que el estado {state_name} no pertenece a la costa este de US")
+        return None
     else:
       dtype = None
     
@@ -93,7 +96,7 @@ def load_df(cloud_event):
 
       print('Haciendo consulta para filtrar')
       # Filtrado en tiempo real
-      query = f"SELECT gmap_id FROM `dms-pfh.maps_data.google-sites`;"
+      query = f"SELECT gmap_id FROM `dminds-414506.maps_data.google-sites`;"
       query_job = bigquery_client.query(query)
       results = query_job.result()
       # Construir el DataFrame manualmente
@@ -114,7 +117,7 @@ def load_df(cloud_event):
         return None
 
       # Tabla destino reviews
-      table_name = 'user-reviews'
+      table_name = 'user-reviews-east'
 
       is_sites_metadata = False
 
@@ -134,12 +137,11 @@ def load_df(cloud_event):
         table_id, 
         client=bigquery_client)
     else:
-      if (state_name in states_east) :
-        from insert import ingest_reviews_from_dataframe
-        ingest_reviews_from_dataframe(
-          df_procesado, 
-          table_id, 
-          client=bigquery_client)
+      from insert import ingest_reviews_from_dataframe
+      ingest_reviews_from_dataframe(
+        df_procesado, 
+        table_id, 
+        client=bigquery_client)
       
   except Exception as e:
     print('¡¡!! Error during the ingestion:', e)

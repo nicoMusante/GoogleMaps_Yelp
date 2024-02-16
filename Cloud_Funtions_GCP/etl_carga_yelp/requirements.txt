@@ -1,0 +1,9 @@
+functions-framework==3.*
+google-cloud-storage
+google-cloud-bigquery
+pandas
+numpy
+pyarrow
+fsspec
+gcsfs
+reverse_geocoder
