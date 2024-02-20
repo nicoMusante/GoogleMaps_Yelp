@@ -1,4 +1,4 @@
-# 🚀🚀 **PROYECTO FINAL** 🚀🚀
+# 🚀🚀 **PROYECTO FINAL: Google Maps & Yelp** 🚀🚀
 
 ## **¿Quiénes Somos?** 👥
 
