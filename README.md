@@ -89,7 +89,7 @@ Esta propuesta representa un enfoque integral y estratégico para analizar el me
 
 7. **Visualización y reportes con Microsoft Power BI conectado desde BigQuery.**
 
-## Stack Tecnológico
+## Pipeline y Stack Tecnológico
 
 <img src="imagenes\pipeline_datos.png" alt="Stack Tecnológico" width="720" height="360">
 
